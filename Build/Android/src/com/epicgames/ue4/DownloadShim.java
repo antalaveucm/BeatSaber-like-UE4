@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.YourCompany.UE4_27_GVR_TwoHands.OBBDownloaderService;
-import com.YourCompany.UE4_27_GVR_TwoHands.DownloaderActivity;
+import com.YourCompany.BeatSaberlike.OBBDownloaderService;
+import com.YourCompany.BeatSaberlike.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.UE4_27_GVR_TwoHands.OBBData;
+import com.YourCompany.BeatSaberlike.OBBData;
 
 
 public class DownloadShim
